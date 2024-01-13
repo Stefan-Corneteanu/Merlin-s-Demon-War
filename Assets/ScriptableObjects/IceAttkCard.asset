@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 513898d481a6c4a47a2ed203c4d1d44c, type: 3}
+  m_Name: IceAttkCard
+  m_EditorClassIdentifier: 
+  cardTitle: Ice Attack
+  description: Casts an Ice attack
+  cost: 1
+  dmg: 2
+  dmgType: 1
+  cardImg: {fileID: 21300000, guid: 9f27dbf3ce7cf61488f95a845c07bd87, type: 3}
+  frameImg: {fileID: 21300000, guid: 9d5d4d15884921446bd2f6688112ceb1, type: 3}
+  noOccsInDeck: 6
+  isDefCard: 0
+  isMirrorCard: 0
+  isMultiAttk: 0
